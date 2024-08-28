@@ -1,0 +1,12 @@
+Honda Civic
+
+Body Type: Sedan or Hatchback
+Transmission: Automatic or Manual
+Fuel Type: Petrol
+Mileage: 16-18 km/l (city), 22-24 km/l (highway)
+NCAP Safety Rating: 5-star (Global NCAP)
+Dimensions:
+	Length: 183.1 inches (Sedan), 180.5 inches (Hatchback)
+	Width: 70.8 inches
+	Height: 55.4 inches (Sedan), 55.7 inches (Hatchback)
+	Wheelbase: 106.3 inches

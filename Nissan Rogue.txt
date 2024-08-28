@@ -1,0 +1,12 @@
+Nissan Rogue
+
+Body Type: SUV
+Transmission: Automatic
+Fuel Type: Petrol
+Mileage: 12-14 km/l (city), 16-18 km/l (highway)
+NCAP Safety Rating: 5-star (Euro NCAP)
+Dimensions:
+	Length: 183.5 inches
+	Width: 72.4 inches
+	Height: 66.4 inches
+	Wheelbase: 106.1 inches

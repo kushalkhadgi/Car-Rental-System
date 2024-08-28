@@ -1,0 +1,12 @@
+Ford F-150
+
+Body Type: Pickup Truck
+Transmission: Automatic
+Fuel Type: Petrol or Diesel
+Mileage: 8-10 km/l (city), 12-14 km/l (highway) (Petrol)
+NCAP Safety Rating: 5-star (Euro NCAP)
+Dimensions: (Varies depending on cab and bed configuration)
+	Length: 210.4 - 243.7 inches
+	Width: 80.0 inches
+	Height: 70.3 - 78.7 inches
+	Wheelbase: 133.7 - 157.4 inches

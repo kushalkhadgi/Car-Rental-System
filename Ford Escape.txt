@@ -1,0 +1,12 @@
+Ford Escape
+
+Body Type: SUV
+Transmission: Automatic
+Fuel Type: Petrol or Diesel
+Mileage: 12-14 km/l (city), 16-18 km/l (highway) (Petrol)
+NCAP Safety Rating: 5-star (Euro NCAP)
+Dimensions:
+	Length: 180.7 inches
+	Width: 73.6 inches
+	Height: 66.7 inches
+	Wheelbase: 106.0 inches

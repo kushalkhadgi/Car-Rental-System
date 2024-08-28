@@ -1,0 +1,12 @@
+Chevrolet Equinox
+
+Body Type: SUV
+Transmission: Automatic
+Fuel Type: Petrol
+Mileage: 12-14 km/l (city), 16-18 km/l (highway)
+NCAP Safety Rating: 5-star (Euro NCAP)
+Dimensions:
+	Length: 187.8 inches
+	Width: 73.1 inches
+	Height: 65.8 inches
+	Wheelbase: 107.5 inches

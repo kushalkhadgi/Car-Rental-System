@@ -1,0 +1,12 @@
+Toyota Corolla
+
+Body Type: Sedan
+Transmission: Automatic or Manual
+Fuel Type: Petrol
+Mileage: 15-17 km/l (city), 20-22 km/l (highway)
+NCAP Safety Rating: 5-star (Global NCAP)
+Dimensions:
+	Length: 182.5 inches
+	Width: 70.3 inches
+	Height: 56.9 inches
+	Wheelbase: 106.1 inches

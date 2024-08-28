@@ -1,0 +1,12 @@
+Hyundai Santro
+
+Body Type: Sedan
+Transmission: Automatic
+Fuel Type: Petrol
+Mileage: 14-16 km/l (city), 18-20 km/l (highway)
+NCAP Safety Rating: 5-star (Global NCAP)
+Dimensions:
+	Length: 192.5 inches
+	Width: 73.4 inches
+	Height: 56.5 inches
+	Wheelbase: 110.2 inches

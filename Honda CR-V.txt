@@ -1,0 +1,12 @@
+Honda CR-V
+
+Body Type: SUV
+Transmission: Automatic
+Fuel Type: Petrol or Hybrid
+Mileage: 13-15 km/l (city), 18-20 km/l (highway) (Petrol)
+NCAP Safety Rating: 5-star (Euro NCAP)
+Dimensions:
+	Length: 185.4 inches
+	Width: 73.0 inches
+	Height: 66.1 inches
+	Wheelbase: 106.2 inches

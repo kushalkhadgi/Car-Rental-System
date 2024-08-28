@@ -1,0 +1,12 @@
+Tesla Model 3
+
+Body Type: Sedan
+Transmission: Electric Motor
+Fuel Type: Electricity
+Range: 358-580 km (WLTP)
+NCAP Safety Rating: 5-star (Euro NCAP)
+Dimensions:
+	Length: 184.8 inches
+	Width: 73.3 inches
+	Height: 56.8 inches
+	Wheelbase: 110.7 inches
